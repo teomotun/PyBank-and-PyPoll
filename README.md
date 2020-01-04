@@ -17,6 +17,7 @@ In this challenge, I was tasked with creating a Python script for analyzing the 
 ### The Financial Analysis output was:
 ----------------------------
 Total Months: 86
+-------------------------
 Total: $38382578
 Average  Change: $-2315.12
 Greatest Increase in Profits: Feb-2012 ($1926159
@@ -24,8 +25,6 @@ Greatest Decrease in Profits: Sep-2013 ($-2196167)
   
 
 ## PyPoll
-
-![Vote-Counting](Images/Vote_counting.png)
 
 In this challenge, I was tasked with helping a small, rural town modernize its vote-counting process. (Up until now, Uncle Cleetus had been trustfully tallying them one-by-one, but unfortunately, his concentration isn't what it used to be.)
 
